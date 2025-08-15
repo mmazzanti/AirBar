@@ -35,3 +35,19 @@ AirBar is a macOS app that displays air quality information directly in your Mac
 - 🟠 PM2.5 between 30 and 50 µg/m³ (Unhealthy for sensitive groups)
 - 🔴 PM2.5 above 50 µg/m³ (Unhealthy)
 
+## How to Open an Unsigned App or DMG
+
+As I am not a registered Apple developer (99$/year are way too much for the amount I make out of my software 🙃) you will see a warning that the app is from an unidentified developer and it won’t open.
+
+Follow these steps to allow it:
+
+1. Open **System Settings**.
+2. Go to **Privacy & Security**.
+3. Scroll down to the bottom where you see the **Security** section.
+4. You should see a message saying the app was blocked from opening because it’s not from an identified developer.
+5. Click the **Open Anyway** button.
+6. Confirm you want to open the app in the next prompt.
+
+This process is required since macOS now enforces stricter security for unsigned apps.
+
+<img src="./non-registered-apple" alt="How to open unsigned app" width="50%">
