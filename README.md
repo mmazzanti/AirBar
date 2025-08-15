@@ -50,4 +50,4 @@ Follow these steps to allow it:
 
 This process is required since macOS now enforces stricter security for unsigned apps.
 
-<img src="./non-registered-apple" alt="How to open unsigned app" width="50%">
+<img src="https://github.com/mmazzanti/AirBar/blob/9a248ebb5a2bc421821f275a493b0baf2c83344b/Images/non-registered-apple.png" alt="How to open unsigned app" width="50%">
