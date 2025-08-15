@@ -58,6 +58,11 @@
 			path = AirBarUITests;
 			sourceTree = "<group>";
 		};
+		9578638A2E4FE2BF00595B18 /* Images */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Images;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -88,6 +93,7 @@
 		955C3A812E4FDB2500A212E9 = {
 			isa = PBXGroup;
 			children = (
+				9578638A2E4FE2BF00595B18 /* Images */,
 				955C3A8C2E4FDB2500A212E9 /* AirBar */,
 				955C3A9D2E4FDB2600A212E9 /* AirBarTests */,
 				955C3AA72E4FDB2600A212E9 /* AirBarUITests */,
@@ -122,6 +128,7 @@
 			);
 			fileSystemSynchronizedGroups = (
 				955C3A8C2E4FDB2500A212E9 /* AirBar */,
+				9578638A2E4FE2BF00595B18 /* Images */,
 			);
 			name = AirBar;
 			packageProductDependencies = (
