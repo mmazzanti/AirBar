@@ -11,9 +11,6 @@ AirBar is a macOS app that displays air quality information directly in your Mac
   <img src="https://github.com/mmazzanti/AirBar/blob/2484037408380c42d051749009feea530ea3c478/Images/airgradient-dashboard.png" width="45%" />
 </p>
 
-
-![AirGradient Dashboard](https://github.com/mmazzanti/AirBar/blob/2484037408380c42d051749009feea530ea3c478/Images/airgradient-dashboard.png)
-
 ## Features
 
 - Displays live temperature, CO2, and PM2.5 levels in the menu bar.
