@@ -7,8 +7,8 @@
 AirBar is a macOS app that displays air quality information directly in your Mac menu bar. It provides real-time monitoring of temperature, CO2, and PM2.5 values streamed from your AirGradient dashboard.
 
 <p align="center">
+  <img src="https://github.com/mmazzanti/AirBar/blob/0891add32d9f917e07e3efbc040297c2881d6277/Images/AirBar_pres.jpeg" width="45%" />
   <img src="https://github.com/mmazzanti/AirBar/blob/2484037408380c42d051749009feea530ea3c478/Images/airgradient-dashboard.png" width="45%" />
-  <img src="airbar.png" width="45%" />
 </p>
 
 
