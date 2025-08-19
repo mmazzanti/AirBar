@@ -8,7 +8,7 @@ AirBar is a macOS app that displays air quality information directly in your Mac
 
 <p align="center">
   <img src="https://github.com/mmazzanti/AirBar/blob/0891add32d9f917e07e3efbc040297c2881d6277/Images/AirBar_pres.jpeg" width="45%" />
-  <img src="https://github.com/mmazzanti/AirBar/blob/2484037408380c42d051749009feea530ea3c478/Images/airgradient-dashboard.png" width="45%" />
+  <img src="https://github.com/mmazzanti/AirBar/blob/bd73431dfd369e98e043392d82439ca368f9af81/Images/airgradient-dashboard-v1.0.2.png" width="39.2%" />
 </p>
 
 ## Features
